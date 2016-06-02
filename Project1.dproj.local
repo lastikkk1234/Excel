@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.876,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.04.10 21:42:08.501,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.04.10 21:44:06.494,=C:\Users\user\Desktop\API\Labs\2\Excel_TLB.pas</Transaction>
+    <Transaction>2016.04.10 21:44:06.540,=C:\Users\user\Desktop\API\Labs\2\Graph_TLB.pas</Transaction>
+    <Transaction>2016.04.10 21:44:06.687,=C:\Users\user\Desktop\API\Labs\2\Office_TLB.pas</Transaction>
+    <Transaction>2016.04.10 21:44:26.839,C:\Users\user\Desktop\API\Labs\2\Unit1.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016.04.10 21:44:26.839,C:\Users\user\Desktop\API\Labs\2\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016.04.10 21:44:29.278,C:\Users\user\Desktop\API\Labs\2\Project1.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
